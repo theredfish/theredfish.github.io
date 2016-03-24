@@ -5,9 +5,9 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: pygments
 markdown: kramdown
-disqus: dbyll
-google_analytics: dbyll
-title: dbyll
+#disqus: theredfish
+#google_analytics:
+title: Julian Didier
 
 defaults:
   -
@@ -16,17 +16,16 @@ defaults:
     values:
       title: dbyll
 
-description: Stylish Jekyll Theme
-disqus:  # add disqus short name here
+description: Blog de Julian Didier
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
-  email_md5: 726351295ec82e145928582f595aa3aa
+  name: Julian Didier
+  email: did.julian@gmail.com
+  github: theredfish
+  twitter: julian__didier
+  #pinterest:
+  linkedin: juliandidier
+  bio: Étudiant en informatique à l'IUT de Nantes en licence professionnelle et développeur web chez Escale.
+  email_md5: d0c317a94f1879c3b7c53ebbf81c34e6
 
 rss_path: feed.xml
 categories_path: categories.html
@@ -35,7 +34,7 @@ tags_path: tags.html
 # set it as url of an image
 # sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
 
-BASE_PATH:
+BASE_PATH: http://theredfish.github.io/
 
 gems:
   - jekyll-paginate
