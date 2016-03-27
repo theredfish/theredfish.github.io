@@ -9,7 +9,7 @@ categories: [general]
 Pour l'ouverture de mon blog je me suis dit qu'un premier article **Hello world!** serait le bienvenu.
 
 # Présentation rapide
-Je suis Julian Didier, développeur web actuellement en alternance chez Escale. Je suis mes études en informatique à l'IUT de Nantes en [licence professionnelle](http://www.iutnantes.univ-nantes.fr/SI00165/0/fiche___formation) faisant suite à mon DUT.
+Je suis Julian Didier, développeur web actuellement en alternance chez [Escale](http://www.escaledigitale.com/). Je suis mes études en informatique à l'IUT de Nantes en [licence professionnelle](http://www.iutnantes.univ-nantes.fr/SI00165/0/fiche___formation) faisant suite à mon DUT.
 
 # Pourquoi ce blog?
 L'idée de faire un blog n'est pas toute neuve, j'ai donc décidé de me lancer. Ce qui me motive surtout c'est de partager avec vous mes découvertes, mes expériences et mes quelques mémos sous forme d'articles. Vous trouverez principalement des articles techs (découvertes, petits points techniques, questions ouvertes, ...), parfois juste quelques mémos qui pourraient au passage vous servir.
