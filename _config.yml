@@ -24,7 +24,7 @@ author:
   twitter: julian__didier
   #pinterest:
   linkedin: juliandidier
-  bio: Junior Developer. S'amuse actuellement avec son Raspberry Pi et la programmation fonctionnelle.
+  bio: Developer at <a href="https://github.com/voyages-sncf-technologies">Voyages-sncf Technologies</a>.<br> I'm playing with <a href="https://www.rust-lang.org">Rust (lang)</a>.
   email_md5: d0c317a94f1879c3b7c53ebbf81c34e6
 
 rss_path: feed.xml
